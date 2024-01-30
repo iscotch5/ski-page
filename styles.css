@@ -1,0 +1,115 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    padding: 0px 10px;
+
+}
+
+
+.left {
+    display: flex;
+}
+
+.right {
+    display: flex;
+    justify-content: space-between;
+}
+
+.one {
+    margin-right: 50px;
+}
+
+.two {
+    margin-right: 50px;
+}
+
+.three {
+    margin-right: 10px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.section-1 {
+    background-color: grey;
+    display: flex;
+    padding: 40px;
+
+}
+
+.awesome {
+    margin: 40px 10px;
+}
+
+.photo {
+    display: flex;
+    margin-left: 200px;
+}
+
+.white {
+    color: white;
+}
+
+button {
+    background-color: pink;
+    margin-top: 3em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.small {
+    height: auto;
+    width: 18em;
+}
+
+.headline {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.image-block {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 250px;
+}
+
+.section-2 {
+    background-color: aquamarine;
+    padding-bottom: 60px;
+    padding-top: 50px;
+
+}
+
+.section-3 {
+    text-align: center;
+    background-color: grey;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.quote {
+    text-indent: 1em;
+}
+
+.section-4 {
+    background-color: aqua;
+    padding: 30px;
+
+}
+
+.time {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.sign-up {
+    align-items: flex-start;
+}
+
+footer {
+    text-align: center;
+    background-color: grey;
+    padding: 25px;
+}
